@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR3ej042/v1
+canonical_location: https://kanripo.org/bkk/KR3ej042/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 中國兒科醫鑑
+  identifiers:
+    krp: KR3ej042
+  tags:
+    kr-categories: KR3ej
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej042.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej042_000.yaml, hash: 'sha256:340301253e9c2162fdd1e2db5685f71fe7f96f418f45b227e268b5ac10f3af74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej042_000.markers.yaml, hash: 'sha256:836d0897c9056e51325bbb18c3c0ee27d2937b064262ffcc02af166afbe98886'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1806
+  label: 第一章麻疹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d3.h1s1
+    span:
+    - body
+    - 1806
+    - 2583
+  label: 第二章猩紅熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d4.h1s1
+    span:
+    - body
+    - 2583
+    - 3573
+  label: 第三章百日咳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d5.h1s1
+    span:
+    - body
+    - 3573
+    - 4852
+  label: 第四章窒扶的里
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d6.h1s1
+    span:
+    - body
+    - 4852
+    - 5385
+  label: 第五章流行性耳下腺炎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d7.h1s1
+    span:
+    - body
+    - 5385
+    - 6422
+  label: 第六章哈伊耨梅琴氏病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d8.h1s1
+    span:
+    - body
+    - 6422
+    - 7877
+  label: 第七章小兒赤痢附疫痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d9.h1s1
+    span:
+    - body
+    - 7877
+    - 8985
+  label: 第八章佝僂病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d10.h1s1
+    span:
+    - body
+    - 8985
+    - 9315
+  label: 第九章夜驚症附夜啼症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d11.h1s1
+    span:
+    - body
+    - 9315
+    - 11238
+  label: 第十章腦膜炎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d12.h1s1
+    span:
+    - body
+    - 11238
+    - 11470
+  label: 第十一章夜尿症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej042_jc_000-d13.h1s1
+    span:
+    - body
+    - 11470
+    - 12314
+  label: 第十二章腺病附腺病質肺門淋巴腺結核
+  type: section
+  level: 1
+hash: sha256:756afc0b51ef93227cb5a01cacfab00294d82d3b95fce9feaa4f78479f2be18d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

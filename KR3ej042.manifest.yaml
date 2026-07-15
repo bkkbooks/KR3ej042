@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej042/v1
 canonical_location: https://kanripo.org/bkk/KR3ej042/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中國兒科醫鑑
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej042_000.yaml, hash: 'sha256:f83a378ba6716830e5e9a1b93b1696acfdd1705deb252edaadee29d04d3e6d56'}
+  - {seq: 0, filename: KR3ej042_000.yaml, hash: 'sha256:e36fe9eeef25a0c75b1d567eb1a6799edfbe1a5cf7118ff0fb25b23c1f5c8637'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej042_000.markers.yaml, hash: 'sha256:491527abe0aa8d7695149292952b6e454306cde1bdafedfbb191ae846fea4709'}
+  - {seq: 0, role: markers, filename: assets/KR3ej042_000.markers.yaml, hash: 'sha256:a22a6f8b51d6047d5a41d622cce3b7dec49507ec63db07bc0d4912881f1378cd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,4 +140,7 @@ table_of_contents:
   label: 第十二章腺病附腺病質肺門淋巴腺結核
   type: section
   level: 1
-hash: sha256:893f850df761646e8556eb327f0ad36d7a77218f8c9559816837e8587fa91def
+hash: sha256:23574c2220ef45d08285dd8bd564857cf1aeece8519f07469883f567afe304af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

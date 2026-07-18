@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej042_000-jc.yaml, hash: 'sha256:f83a378ba6716830e5e9a1b93b1696acfdd1705deb252edaadee29d04d3e6d56'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej042_000-jc.markers.yaml, hash: 'sha256:6e41b11df60af8a43169e2a84fb274a9445ca048395413af624ca7a568943212'}
+  - {seq: 0, role: markers, filename: assets/KR3ej042_000-jc.markers.yaml, hash: 'sha256:f04ecb54a63bc6e890a35551d5bf745a32e7eaaece7e35fe25ef1dbbdb7ee9e3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,4 +140,4 @@ table_of_contents:
   label: 第十二章腺病附腺病質肺門淋巴腺結核
   type: section
   level: 1
-hash: sha256:1893caeecbe25fc763fa498a2f4a778eab0008f946d17889928563e63235fe58
+hash: sha256:73b32fa331eaaec646b85cdba3f4569adfa20e2d65c4e49394c79d3fe3845239
